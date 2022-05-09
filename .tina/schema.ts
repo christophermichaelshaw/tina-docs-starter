@@ -3,7 +3,7 @@
 // ...
 
 const branch = process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF
-const clientId = 'YOUR-CLIENT-ID-HERE'
+const clientId = 'c53fb24e-f527-47b3-ba24-c123f6297b67'
 
 // When working locally, hit our local filesystem.
 // On a Vercel deployment, hit the Tina Cloud API
